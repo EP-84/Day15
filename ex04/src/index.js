@@ -6,9 +6,9 @@ function myArr(mili) {
 // Only change code below this line
 // Using mili = [4, 10, 25] would be invalid
 
-mili[0] = 4;
-mili[1] = 10;
-mili[2] = 25;
+ilili[0] = 4;
+ilili[1] = 10;
+ilili[2] = 25;
 
 // Only change code above this line
 
